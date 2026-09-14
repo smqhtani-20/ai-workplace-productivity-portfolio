@@ -1,6 +1,6 @@
 # Planning Workflow Example — Legacy Authentication Migration
 
-**Scenario:** As the Technical Expert, I need to plan the migration of a legacy authentication system to a new SSO provider within 6 weeks, with limited testing windows and a dependency on another team.
+**Scenario:** As the Expert Technician, I need to plan the migration of a legacy authentication system to a new SSO provider within 6 weeks, with limited testing windows and a dependency on another team.
 
 ## Weak Prompt (Before)
 
@@ -38,12 +38,12 @@ Migrate the legacy authentication system to the new SSO provider within 6 weeks,
 
 | Task | Owner | Deadline | Dependency |
 |---|---|---|---|
-| Document all current login integration points | Technical Expert | End of Week 1 | None |
-| Build SSO integration in parallel environment | Technical Expert + Identity Team | End of Week 3 | Identity team resource availability |
-| Run weekend pilot test with limited user group | Technical Expert | Week 4 weekend | Phase 2 complete |
-| Review pilot results and fix any issues found | Technical Expert | Week 5 | Pilot test complete |
-| Execute full cutover and monitor for 48 hours | Technical Expert + Identity Team | Week 6 | Identity team sign-off on Phase 3 |
-| Decommission legacy authentication system | Technical Expert | End of Week 6 | Successful 48-hour monitoring window |
+| Document all current login integration points | Expert Technician | End of Week 1 | None |
+| Build SSO integration in parallel environment | Expert Technician + Identity Team | End of Week 3 | Identity team resource availability |
+| Run weekend pilot test with limited user group | Expert Technician | Week 4 weekend | Phase 2 complete |
+| Review pilot results and fix any issues found | Expert Technician | Week 5 | Pilot test complete |
+| Execute full cutover and monitor for 48 hours | Expert Technician + Identity Team | Week 6 | Identity team sign-off on Phase 3 |
+| Decommission legacy authentication system | Expert Technician | End of Week 6 | Successful 48-hour monitoring window |
 
 ## Why This Is Stronger Than the Weak Version
 
