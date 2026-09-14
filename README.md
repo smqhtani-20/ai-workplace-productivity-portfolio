@@ -1,10 +1,16 @@
 # AI Workplace Productivity Portfolio — Technical Expert
 
-## Trainee Information
-- Trainee Name: Saad Al-Qahtani
-- Training Program: L0-FGP — Generative AI for Workplace Productivity
-- Instructor: Fahad Alqahtani
-- Date: September 15, 2026
+## Course Information
+
+| Item | Details |
+|---|---|
+| **Course Name** | Generative AI for Workplace Productivity |
+| **Course Code** | `L0-FGP` |
+| **Training Academy** | [@SDAIAAcademy](https://github.com/SDAIAAcademy) |
+| **Instructor** | Fahad Alqahtani |
+| **Trainee** | Saad Al-Qahtani |
+| **Professional Scenario** | Technical Expert |
+| **Submission Date** | September 15, 2026 |
 
 ## Project Overview
 This portfolio demonstrates how a Technical Expert can use generative AI to handle recurring workplace tasks — status communication, technical incident summaries, information processing, and phased planning — while keeping human review and final accountability at every step. All examples are built around one fictional scenario and were verified before inclusion.
@@ -51,4 +57,4 @@ This portfolio does not contain real confidential, private, or sensitive organiz
 
 ---
 **L0-FGP — Generative AI for Workplace Productivity**
-SDAIA Academy
+Final Course Portfolio for [@SDAIAAcademy](https://github.com/SDAIAAcademy)
