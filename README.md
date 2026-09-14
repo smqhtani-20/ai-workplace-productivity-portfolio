@@ -1,4 +1,12 @@
 # AI Workplace Productivity Portfolio — Technical Expert
+[![Course](https://img.shields.io/badge/Course-L0--FGP-blue?style=for-the-badge)]()
+[![Academy](https://img.shields.io/badge/Academy-SDAIA%20Academy-007A78?style=for-the-badge)]()
+[![Role](https://img.shields.io/badge/Role-Expert%20Technician-6B46C1?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)]()
+
+### **Generative AI for Workplace Productivity**
+
+*A practical portfolio demonstrating structured, verified, and responsible use of generative AI in the workplace.*
 
 ## Course Information
 
