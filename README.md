@@ -23,7 +23,10 @@ The selected role is **Technical Expert**, supporting a fictional product launch
 - Professional writing using **Draft → Verify → Refine → Human Sign-off**
 - Summarizing and extracting information into decision-ready, verified briefs
 - Planning using **Goal → Mechanisms → Phases → Tasks**
+- Applying a personal verification checklist to catch invented or unconfirmed details before use
+- Applying Responsible AI principles (Accuracy, Accountability, Confidentiality, Privacy, Bias, Human Oversight) and Green/Amber/Red information classification
 - Never inventing missing information — flagging gaps as `[Not Specified]` or "Unconfirmed" instead
+- Building a realistic personal plan for integrating AI into recurring workplace tasks
 
 ## Repository Contents
 | Section | Description |
