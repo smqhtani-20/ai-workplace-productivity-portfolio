@@ -32,9 +32,9 @@ The selected role is **Technical Expert**, supporting a fictional product launch
 | [02 – Writing Workflow](02-writing-workflow/professional-writing-example.md) | A deployment-delay email shown through all 4 workflow steps |
 | [03 – Information Workflow](03-information-workflow/information-processing-example.md) | Scattered updates turned into a verified, decision-ready brief + action table |
 | [04 – Planning Workflow](04-planning-workflow/planning-example.md) | A 6-week authentication migration broken into phases and tasks |
-| [05 – Verification](05-verification/verification-checklist.md) | Pending Day 3 course material |
-| [06 – Responsible AI](06-responsible-ai/responsible-use-checklist.md) | Pending Day 3 course material |
-| [07 – Integration Plan](07-integration-plan/personal-integration-plan.md) | Pending Day 3 course material |
+| [05 – Verification](05-verification/verification-checklist.md) | A 7-point verification checklist applied to a real portfolio output |
+| [06 – Responsible AI](06-responsible-ai/responsible-use-checklist.md) | Responsible-use analysis covering all six concepts + Green/Amber/Red classification |
+| [07 – Integration Plan](07-integration-plan/personal-integration-plan.md) | A practical plan for using AI across 3 recurring Technical Expert tasks |
 
 ## Key Learnings
 1. A vague prompt produces a vague, unusable result — structure (C.A.R.E./R.C.T.O.) is what makes AI output specific and reusable.
