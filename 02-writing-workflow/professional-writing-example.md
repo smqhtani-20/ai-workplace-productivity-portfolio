@@ -1,6 +1,6 @@
 # Professional Writing Example — Deployment Delay Notice
 
-**Scenario:** As the Technical Expert on a project, a client-facing deployment deadline has shifted two weeks (May 30 → June 13) due to a vendor-caused delay. A 150-word, 3-paragraph email needs to go to a 6-person technical team.
+**Scenario:** As the Expert Technician on a project, a client-facing deployment deadline has shifted two weeks (May 30 → June 13) due to a vendor-caused delay. A 150-word, 3-paragraph email needs to go to a 6-person technical team.
 
 ## Step 1 — AI-Generated Draft
 
@@ -54,6 +54,6 @@ Checked against the source facts before anything else:
 >
 > Best,
 > [Name]
-> Technical Expert
+> Expert Technician
 
 **150 words. 3 paragraphs. One action. Human-approved before sending.**
