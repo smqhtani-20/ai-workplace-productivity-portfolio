@@ -57,8 +57,9 @@ The selected role is **Expert Technician**, supporting a fictional product launc
 1. A vague prompt produces a vague, unusable result — structure (C.A.R.E./R.C.T.O.) is what makes AI output specific and reusable.
 2. Every AI-generated draft must be checked against its source before it is trusted — fluent output is not the same as correct output.
 3. Missing owners, dates, or figures should be marked `[Not Specified]` or "Unconfirmed" — never invented.
-4. One clear next action beats several competing asks of equal weight — a lesson learned directly from revising the Day 1 email exercise.
-5. The same facts can — and should — be delivered differently depending on the audience, without changing the facts themselves.
+4. A plan is only as strong as its explicit dependencies and owners — breaking a goal into phases and tasks exposes risks a vague plan would hide.
+5. Classifying information as Green/Amber/Red before using it in an AI tool is a fast, practical habit — not an abstract policy.
+6. The same facts can — and should — be delivered differently depending on the audience, without changing the facts themselves.
 
 ## 🛡️ Responsible Use Statement
 This portfolio does not contain real confidential, private, or sensitive organizational information. All examples (TaskFlow, budget figures, the authentication migration) are fictional. AI-generated content was reviewed by the trainee, who takes responsibility for the final work.
