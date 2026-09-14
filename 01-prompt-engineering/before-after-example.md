@@ -1,6 +1,6 @@
 # Before / After Example — The Vague Prompt Rescue
 
-This is the actual pair produced during the Day 1 "Vague Prompt Rescue" lab, applied to the Technical Expert scenario: informing a project team of a timeline change.
+This is the actual pair produced during the Day 1 "Vague Prompt Rescue" lab, applied to the Expert Technician scenario: informing a project team of a timeline change.
 
 ## Before (Vague Prompt)
 
