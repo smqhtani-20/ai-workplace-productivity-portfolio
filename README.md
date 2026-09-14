@@ -9,7 +9,7 @@
 | **Training Academy** | [@SDAIAAcademy](https://github.com/SDAIAAcademy) |
 | **Instructor** | Fahad Alqahtani |
 | **Trainee** | Saad Al-Qahtani |
-| **Professional Scenario** | Technical Expert |
+| **Professional Scenario** | Expert Technician |
 | **Submission Date** | September 15, 2026 |
 
 ## Project Overview
