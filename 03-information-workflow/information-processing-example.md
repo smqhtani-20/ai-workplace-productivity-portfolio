@@ -2,7 +2,7 @@
 
 **Information tasks demonstrated:** Summarizing + Extracting (of the five information tasks: extract, condense, synthesize, restructure, prioritize).
 
-**Scenario:** As the Technical Expert, three days of scattered project updates (email + chat) need to become a status brief a director can read in one minute.
+**Scenario:** As the Expert Technician, three days of scattered project updates (email + chat) need to become a status brief a director can read in one minute.
 
 ## Input (Raw Notes)
 
@@ -15,12 +15,12 @@
 
 > Context: three days of scattered project updates via email and chat, a director needs a status brief in 20 minutes.
 > Action: summarize as an executive brief.
-> Role: Technical Expert writing to a director.
+> Role: Expert Technician writing to a director.
 > Expected Output: opens with a To/From/Subject header, leads with the bottom line, 3–5 bullets, preserves every date/figure/name, and explicitly flags anything unconfirmed instead of stating it as fact.
 
 ## AI Output (Draft)
 
-> **To:** Director **From:** Technical Expert **Subject:** Product Launch Status
+> **To:** Director **From:** Expert Technician **Subject:** Product Launch Status
 >
 > **Bottom line:** Full rollout Friday is at risk, pending a capacity decision at Thursday's meeting.
 >
