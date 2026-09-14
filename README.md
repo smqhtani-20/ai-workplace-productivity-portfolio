@@ -1,4 +1,4 @@
-# AI Workplace Productivity Portfolio — Technical Expert
+# AI Workplace Productivity Portfolio
 [![Course](https://img.shields.io/badge/Course-L0--FGP-blue?style=for-the-badge)]()
 [![Academy](https://img.shields.io/badge/Academy-SDAIA%20Academy-007A78?style=for-the-badge)]()
 [![Role](https://img.shields.io/badge/Role-Expert%20Technician-6B46C1?style=for-the-badge)]()
