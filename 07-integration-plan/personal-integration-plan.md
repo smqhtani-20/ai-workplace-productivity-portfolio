@@ -1,6 +1,6 @@
 # Personal AI Integration Plan
 
-The following plan describes realistic ways I can use generative AI as a Technical Expert while keeping accuracy, confidentiality, and final decisions under human control.
+The following plan describes realistic ways I can use generative AI as an Expert Technician while keeping accuracy, confidentiality, and final decisions under human control.
 
 | Recurring Task | Expected Benefit | Preferred Prompt or Workflow | Main Risk / Verification Requirement | Frequency | What Success Looks Like |
 |---|---|---|---|---|---|
