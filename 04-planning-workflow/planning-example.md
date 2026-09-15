@@ -12,7 +12,7 @@
 
 - **Context:** Goal is to migrate the legacy authentication system to a new SSO provider within 6 weeks; testing windows are limited to weekends; the identity team's cooperation is a hard dependency.
 - **Action:** Build a phased plan using Goal → Mechanisms → Phases → Tasks.
-- **Role:** Experienced technical program lead.
+- **Role:** Experienced Expert Technician leading the migration.
 - **Expected Output:** Phases with tasks, and an owner/deadline/dependency per task.
 
 ## Resulting Plan
