@@ -23,7 +23,7 @@
 ## 🎯 Project Overview
 This portfolio demonstrates how an Expert Technician can use generative AI to handle recurring workplace tasks — status communication, technical incident summaries, information processing, and phased planning — while keeping human review and final accountability at every step. All examples are built around one fictional scenario and were verified before inclusion.
 
-	## 🧑‍💻 Selected Workplace Scenario
+## 🧑‍💻 Selected Workplace Scenario
 The selected role is **Expert Technician**, supporting a fictional product launch (TaskFlow) and its underlying technical operations. The role includes:
 - communicating deployment and infrastructure changes to teams, managers, and clients;
 - writing root-cause and incident summaries;
