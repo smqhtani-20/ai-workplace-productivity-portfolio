@@ -15,17 +15,17 @@ This is the actual pair produced during the Day 1 "Vague Prompt Rescue" lab, app
 > **When:** new date — September 30
 > **Why:** the client provided all financial requirements earlier than expected
 > **Constraints:** accelerate work and deliver without compromising output quality
-> **Task:** write a formal email, as the project manager, informing the team of all details — medium length, paragraphs + bullet points, formal tone, audience: the full project team, requirement: commit to both time and quality.
+> **Task:** write a formal email, as the Expert Technician, informing the team of all details — medium length, paragraphs + bullet points, formal tone, audience: the full project team, requirement: commit to both time and quality.
 
 **Improved Result:** A structured, formal email with:
 - A clear statement of the new deadline and the reason behind it
 - A dedicated, prominent paragraph for the one action the team needed to take (review current tasks and send an updated plan by a set date) — instead of four competing asks with equal weight
 - Supporting guidance (coordination, quality, escalation) kept separate from that one primary action
-- A tone matching the Project Manager role, calm and directive
+- A tone matching the Expert Technician role, calm and directive
 
 ## What Improved?
 
 - **Specificity replaced guesswork.** The vague version left every detail (audience, reason, deadline, tone) to chance; the structured version specified all of them up front.
 - **One action, not four.** The first draft of the improved version still buried the "what do I do now" instruction inside a list of four equally-weighted asks. A revision isolated it into its own paragraph — this single fix was the difference between a checklist item marked incomplete and one marked complete on the evaluation checklist.
-- **Role and tone were explicit.** Naming the sender's role (project manager) and required tone (formal) removed the ambiguity that produced the generic first draft.
+- **Role and tone were explicit.** Naming the sender's role (Expert Technician) and required tone (formal) removed the ambiguity that produced the generic first draft.
 - **Iteration, not perfection on the first try.** The final version took one extra revision cycle — a normal and expected part of the C.A.R.E. process, not a sign of failure.
