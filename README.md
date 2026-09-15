@@ -16,7 +16,7 @@
 | **Course Code** | `L0-FGP` |
 | **Training Academy** | [@SDAIAAcademy](https://github.com/SDAIAAcademy) |
 | **Instructor** | Fahad Alqahtani |
-| **Trainee** | Saad Al-Qahtani |
+| **Trainee** | Saad Alqahtani |
 | **Professional Scenario** | Expert Technician |
 | **Submission Date** | September 15, 2026 |
 
